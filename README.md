@@ -22,4 +22,5 @@ Builds a 3-layer neural network from scratch to recognize the MNIST Database of 
 * epoch: 5
 * accuracy: 0.9177
 
-<img src="result.png"/>
+
+<img src="result.png" width="50%"/>
